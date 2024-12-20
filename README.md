@@ -38,3 +38,7 @@ This project presents a **Weekly Branch Dashboard** to analyze and monitor key m
 ├── Data/                  # Sample or raw data (if available)
 ├── Dashboard.xlsx         # Excel file containing the dashboard
 ├── README.md              # Project documentation
+
+
+![exce dashboard](https://github.com/user-attachments/assets/31d71c84-8c4a-4144-b381-a69340336370)
+
